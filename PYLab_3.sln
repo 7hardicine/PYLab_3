@@ -1,9 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35818.85 d17.13
+VisualStudioVersion = 17.13.35818.85
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PYLab_3_1", "PYLab_3_1\PYLab_3_1.pyproj", "{54F8021F-D88B-4EE4-B0C5-3F45CCDFE7B0}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PYLab_3_2", "PYLab_3_2\PYLab_3_2.pyproj", "{45F73493-A3BD-493E-A351-560DB24B8001}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PYLab_3_3", "PYLab_3_3\PYLab_3_3.pyproj", "{5A9EAAE7-BAED-457E-823C-63D5AB4C097C}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PYLab_3_4", "PYLab_3_4\PYLab_3_4.pyproj", "{B3DF640C-ECAE-43B5-989B-412C8306B45B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +19,12 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{54F8021F-D88B-4EE4-B0C5-3F45CCDFE7B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{54F8021F-D88B-4EE4-B0C5-3F45CCDFE7B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45F73493-A3BD-493E-A351-560DB24B8001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45F73493-A3BD-493E-A351-560DB24B8001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A9EAAE7-BAED-457E-823C-63D5AB4C097C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A9EAAE7-BAED-457E-823C-63D5AB4C097C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3DF640C-ECAE-43B5-989B-412C8306B45B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3DF640C-ECAE-43B5-989B-412C8306B45B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
